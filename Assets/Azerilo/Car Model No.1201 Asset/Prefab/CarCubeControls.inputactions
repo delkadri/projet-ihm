@@ -1,0 +1,45 @@
+{
+    "name": "CarCubeControls",
+    "maps": [
+        {
+            "name": "CarCube",
+            "id": "b7a3aa3f-bfc1-4e5b-86ec-9290178a930a",
+            "actions": [
+                {
+                    "name": "ShowDocs",
+                    "type": "Button",
+                    "id": "cea856bf-1338-4900-97c0-55e0cb5bf24e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "3c5a20d9-5857-412e-aec4-fd54759415c6",
+                    "path": "<Joystick>/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ShowDocs",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1d572edd-3b66-4231-af7d-2a1274634e57",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ShowDocs",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
