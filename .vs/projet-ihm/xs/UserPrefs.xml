@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{28A04D25-CAC9-6A2D-C4D4-9096AFDE54E5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DocumentData.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PdfPageSet.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/DocumentData.cs" Line="12" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="projet-ihm" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="DocumentData.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c577f631-0e92-40ad-94d5-ef04dab51755" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
