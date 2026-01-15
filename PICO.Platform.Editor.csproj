@@ -63,14 +63,8 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\PlatformManifestRewrite.cs">
-      <Link>Platform\Editor\PlatformManifestRewrite.cs</Link>
-    </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\PlatformConfig.cs">
       <Link>Platform\Editor\PlatformConfig.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\Gs.cs">
-      <Link>Platform\Editor\Gs.cs</Link>
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\Menu.cs">
       <Link>Platform\Editor\Menu.cs</Link>
@@ -80,6 +74,12 @@
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\PicoGs.cs">
       <Link>Platform\Editor\PicoGs.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\PlatformManifestRewrite.cs">
+      <Link>Platform\Editor\PlatformManifestRewrite.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\Gs.cs">
+      <Link>Platform\Editor\Gs.cs</Link>
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\PcConfig.cs">
       <Link>Platform\Editor\PcConfig.cs</Link>

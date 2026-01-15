@@ -63,9 +63,6 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\PICOScreenFade.cs">
-      <Link>Runtime\PICOScreenFade.cs</Link>
-    </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\LitJson\JsonWriter.cs">
       <Link>Runtime\Features\Utils\LitJson\JsonWriter.cs</Link>
     </Compile>
@@ -78,44 +75,14 @@
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\PICOFeature.cs">
       <Link>Runtime\PICOFeature.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\MixedReality\PXR_MixedReality.cs">
-      <Link>Runtime\Features\MixedReality\PXR_MixedReality.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\OpenXRExtensions.cs">
-      <Link>Runtime\Features\OpenXRExtensions.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\LitJson\Netstandard15Polyfill.cs">
-      <Link>Runtime\Features\Utils\LitJson\Netstandard15Polyfill.cs</Link>
-    </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Controller\PXR_ControllerAnimator.cs">
       <Link>Runtime\Controller\PXR_ControllerAnimator.cs</Link>
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Subsystem\PICOSessionSubsystem.cs">
       <Link>Runtime\Subsystem\PICOSessionSubsystem.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\OpenXRFeatureBase.cs">
-      <Link>Runtime\Features\Utils\OpenXRFeatureBase.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\PICO\BodyTrackingFeature.cs">
-      <Link>Runtime\Features\PICO\BodyTrackingFeature.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Controller\PXR_ControllerG3Animator.cs">
-      <Link>Runtime\Controller\PXR_ControllerG3Animator.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\LitJson\Lexer.cs">
-      <Link>Runtime\Features\Utils\LitJson\Lexer.cs</Link>
-    </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\MixedReality\MR_Plugin.cs">
       <Link>Runtime\Features\MixedReality\MR_Plugin.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Controller\PXR_ControllerWithHandAnimator.cs">
-      <Link>Runtime\Controller\PXR_ControllerWithHandAnimator.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\OpenXRNativeTypes.cs">
-      <Link>Runtime\Features\Utils\OpenXRNativeTypes.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\PXR_PermissionRequest.cs">
-      <Link>Runtime\Features\Utils\PXR_PermissionRequest.cs</Link>
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Subsystem\PICOCameraSubsystem.cs">
       <Link>Runtime\Subsystem\PICOCameraSubsystem.cs</Link>
@@ -129,26 +96,11 @@
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\LitJson\JsonMockWrapper.cs">
       <Link>Runtime\Features\Utils\LitJson\JsonMockWrapper.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\CompositeLayerFeature.cs">
-      <Link>Runtime\Features\CompositeLayerFeature.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\LayerBase.cs">
-      <Link>Runtime\Features\Utils\LayerBase.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\PICO\PICOSpatialAnchor.cs">
-      <Link>Runtime\Features\PICO\PICOSpatialAnchor.cs</Link>
-    </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\PassthroughLayerFeature.cs">
       <Link>Runtime\Features\PassthroughLayerFeature.cs</Link>
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\PerformanceSettingsFeature.cs">
       <Link>Runtime\Features\PerformanceSettingsFeature.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\DisplayRefreshRateFeature.cs">
-      <Link>Runtime\Features\DisplayRefreshRateFeature.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\MixedReality\PXR_SpatialMeshManager.cs">
-      <Link>Runtime\Features\MixedReality\PXR_SpatialMeshManager.cs</Link>
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\PXR_Plugin.cs">
       <Link>Runtime\Features\Utils\PXR_Plugin.cs</Link>
@@ -159,6 +111,63 @@
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\PassthroughFeature.cs">
       <Link>Runtime\Features\PassthroughFeature.cs</Link>
     </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Controller\PXR_ControllerLoader.cs">
+      <Link>Runtime\Controller\PXR_ControllerLoader.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\LitJson\JsonReader.cs">
+      <Link>Runtime\Features\Utils\LitJson\JsonReader.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\PICO\PICOSceneCapture.cs">
+      <Link>Runtime\Features\PICO\PICOSceneCapture.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\PICOScreenFade.cs">
+      <Link>Runtime\PICOScreenFade.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\MixedReality\PXR_MixedReality.cs">
+      <Link>Runtime\Features\MixedReality\PXR_MixedReality.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\OpenXRExtensions.cs">
+      <Link>Runtime\Features\OpenXRExtensions.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\LitJson\Netstandard15Polyfill.cs">
+      <Link>Runtime\Features\Utils\LitJson\Netstandard15Polyfill.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\OpenXRFeatureBase.cs">
+      <Link>Runtime\Features\Utils\OpenXRFeatureBase.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\PICO\BodyTrackingFeature.cs">
+      <Link>Runtime\Features\PICO\BodyTrackingFeature.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Controller\PXR_ControllerG3Animator.cs">
+      <Link>Runtime\Controller\PXR_ControllerG3Animator.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\LitJson\Lexer.cs">
+      <Link>Runtime\Features\Utils\LitJson\Lexer.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Controller\PXR_ControllerWithHandAnimator.cs">
+      <Link>Runtime\Controller\PXR_ControllerWithHandAnimator.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\OpenXRNativeTypes.cs">
+      <Link>Runtime\Features\Utils\OpenXRNativeTypes.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\PXR_PermissionRequest.cs">
+      <Link>Runtime\Features\Utils\PXR_PermissionRequest.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\CompositeLayerFeature.cs">
+      <Link>Runtime\Features\CompositeLayerFeature.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\LayerBase.cs">
+      <Link>Runtime\Features\Utils\LayerBase.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\PICO\PICOSpatialAnchor.cs">
+      <Link>Runtime\Features\PICO\PICOSpatialAnchor.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\DisplayRefreshRateFeature.cs">
+      <Link>Runtime\Features\DisplayRefreshRateFeature.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\MixedReality\PXR_SpatialMeshManager.cs">
+      <Link>Runtime\Features\MixedReality\PXR_SpatialMeshManager.cs</Link>
+    </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\LitJson\JsonData.cs">
       <Link>Runtime\Features\Utils\LitJson\JsonData.cs</Link>
     </Compile>
@@ -168,20 +177,11 @@
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\LayerSecureContentFeature.cs">
       <Link>Runtime\Features\LayerSecureContentFeature.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Controller\PXR_ControllerLoader.cs">
-      <Link>Runtime\Controller\PXR_ControllerLoader.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\LitJson\JsonReader.cs">
-      <Link>Runtime\Features\Utils\LitJson\JsonReader.cs</Link>
-    </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\PICOProjectSetting.cs">
       <Link>Runtime\PICOProjectSetting.cs</Link>
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\Utils\LitJson\IJsonWrapper.cs">
       <Link>Runtime\Features\Utils\LitJson\IJsonWrapper.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Features\PICO\PICOSceneCapture.cs">
-      <Link>Runtime\Features\PICO\PICOSceneCapture.cs</Link>
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Subsystem\PXR_HumanBodySubsystem.cs">
       <Link>Runtime\Subsystem\PXR_HumanBodySubsystem.cs</Link>

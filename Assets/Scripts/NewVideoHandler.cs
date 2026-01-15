@@ -15,12 +15,10 @@ public class NewVideoHandler : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        pausePlayButton.action.started += TogglePausePlay;
-        forwardButton.action.started += Forward;
-        backwardButton.action.started += Backward;
-        // pausePlayButton.action.started += ButtonWasPressed;
-        // pausePlayButton.action.canceled += ButtonWasReleased;
-        // customThumbstick.action.performed += ThumbstickMoved;
+            // callback version
+        // pausePlayButton.action.started += TogglePausePlay;
+        // forwardButton.action.started += Forward;
+        // backwardButton.action.started += Backward;
     }
 
     // void ButtonWasPressed(InputAction.CallbackContext context)
@@ -71,6 +69,30 @@ public class NewVideoHandler : MonoBehaviour
         player.time -= 5;
     }
 
+    public void TogglePausePlayUI()
+    {
+        // Debug.Log("Pause/Play");
+        if (player.isPlaying)
+        {
+            player.Pause();
+        }
+        else
+        {
+            player.Play();
+        }
+    }
+
+    public void ForwardUI()
+    {
+        // Debug.Log("Forward");
+        player.time += 5;
+    }
+
+    public void BackwardUI()
+    {
+        // Debug.Log("Backward");
+        player.time -= 5;
+    }
     // Update is called once per frame
     void Update()
     {

@@ -66,44 +66,17 @@
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\Achievements.cs">
       <Link>Platform\Scripts\Service\Achievements.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\User.cs">
-      <Link>Platform\Scripts\Models\User.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Notification.cs">
-      <Link>Platform\Scripts\Models\Notification.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\AssetFile.cs">
-      <Link>Platform\Scripts\Models\AssetFile.cs</Link>
-    </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\Challenges.cs">
       <Link>Platform\Scripts\Service\Challenges.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\Application.cs">
-      <Link>Platform\Scripts\Service\Application.cs</Link>
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\Matchmaking.cs">
       <Link>Platform\Scripts\Service\Matchmaking.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Challenge.cs">
-      <Link>Platform\Scripts\Models\Challenge.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Highlight.cs">
-      <Link>Platform\Scripts\Models\Highlight.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Room.cs">
-      <Link>Platform\Scripts\Models\Room.cs</Link>
-    </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\Compliance.cs">
       <Link>Platform\Scripts\Service\Compliance.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\User.cs">
-      <Link>Platform\Scripts\Service\User.cs</Link>
-    </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\RTC.cs">
       <Link>Platform\Scripts\Models\RTC.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Framework\TimeUtil.cs">
-      <Link>Platform\Scripts\Framework\TimeUtil.cs</Link>
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Framework\Runner.cs">
       <Link>Platform\Scripts\Framework\Runner.cs</Link>
@@ -117,6 +90,60 @@
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Speech.cs">
       <Link>Platform\Scripts\Models\Speech.cs</Link>
     </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\CLIB\MarshalUtil.cs">
+      <Link>Platform\Scripts\CLIB\MarshalUtil.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Common.cs">
+      <Link>Platform\Scripts\Models\Common.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\RTC.cs">
+      <Link>Platform\Scripts\Service\RTC.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\CloudStorage.cs">
+      <Link>Platform\Scripts\Service\CloudStorage.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\Core.cs">
+      <Link>Platform\Scripts\Service\Core.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Compliance.cs">
+      <Link>Platform\Scripts\Models\Compliance.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Achievement.cs">
+      <Link>Platform\Scripts\Models\Achievement.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Framework\Message.cs">
+      <Link>Platform\Scripts\Framework\Message.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\Speech.cs">
+      <Link>Platform\Scripts\Service\Speech.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\User.cs">
+      <Link>Platform\Scripts\Models\User.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Notification.cs">
+      <Link>Platform\Scripts\Models\Notification.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\AssetFile.cs">
+      <Link>Platform\Scripts\Models\AssetFile.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\Application.cs">
+      <Link>Platform\Scripts\Service\Application.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Challenge.cs">
+      <Link>Platform\Scripts\Models\Challenge.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Highlight.cs">
+      <Link>Platform\Scripts\Models\Highlight.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Room.cs">
+      <Link>Platform\Scripts\Models\Room.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\User.cs">
+      <Link>Platform\Scripts\Service\User.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Framework\TimeUtil.cs">
+      <Link>Platform\Scripts\Framework\TimeUtil.cs</Link>
+    </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\AssetFile.cs">
       <Link>Platform\Scripts\Service\AssetFile.cs</Link>
     </Compile>
@@ -129,9 +156,6 @@
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Framework\PXR_PlatformSetting.cs">
       <Link>Platform\Scripts\Framework\PXR_PlatformSetting.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\CLIB\MarshalUtil.cs">
-      <Link>Platform\Scripts\CLIB\MarshalUtil.cs</Link>
-    </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\Leaderboard.cs">
       <Link>Platform\Scripts\Service\Leaderboard.cs</Link>
     </Compile>
@@ -141,26 +165,14 @@
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\IAP.cs">
       <Link>Platform\Scripts\Service\IAP.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Common.cs">
-      <Link>Platform\Scripts\Models\Common.cs</Link>
-    </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\Notification.cs">
       <Link>Platform\Scripts\Service\Notification.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\RTC.cs">
-      <Link>Platform\Scripts\Service\RTC.cs</Link>
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\Sport.cs">
       <Link>Platform\Scripts\Service\Sport.cs</Link>
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Sport.cs">
       <Link>Platform\Scripts\Models\Sport.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\CloudStorage.cs">
-      <Link>Platform\Scripts\Service\CloudStorage.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\Core.cs">
-      <Link>Platform\Scripts\Service\Core.cs</Link>
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Framework\Task.cs">
       <Link>Platform\Scripts\Framework\Task.cs</Link>
@@ -174,17 +186,8 @@
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Packet.cs">
       <Link>Platform\Scripts\Models\Packet.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Compliance.cs">
-      <Link>Platform\Scripts\Models\Compliance.cs</Link>
-    </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\Highlight.cs">
       <Link>Platform\Scripts\Service\Highlight.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Achievement.cs">
-      <Link>Platform\Scripts\Models\Achievement.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Framework\Message.cs">
-      <Link>Platform\Scripts\Framework\Message.cs</Link>
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Models\Matchmaking.cs">
       <Link>Platform\Scripts\Models\Matchmaking.cs</Link>
@@ -200,9 +203,6 @@
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Framework\MessageQueue.cs">
       <Link>Platform\Scripts\Framework\MessageQueue.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\Service\Speech.cs">
-      <Link>Platform\Scripts\Service\Speech.cs</Link>
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Scripts\CLIB\CLIB.cs">
       <Link>Platform\Scripts\CLIB\CLIB.cs</Link>

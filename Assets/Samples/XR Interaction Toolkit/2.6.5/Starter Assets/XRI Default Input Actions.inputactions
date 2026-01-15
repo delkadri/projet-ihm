@@ -808,6 +808,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "Bookmark Button (B)",
+                    "type": "Button",
+                    "id": "ab038068-f862-4ab7-a9a1-0ed5724c99f4",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -1006,6 +1015,17 @@
                     "processors": "",
                     "groups": "",
                     "action": "Backward Button (X)",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "347ed23c-4fa2-484a-ac45-b4658bc43310",
+                    "path": "<XRController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Bookmark Button (B)",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
