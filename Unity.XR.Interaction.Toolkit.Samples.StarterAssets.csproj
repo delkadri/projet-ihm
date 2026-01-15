@@ -61,16 +61,16 @@
   <ItemGroup>
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Scripts\TeleportVolumeAnchorAffordanceStateLink.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\DestroySelf.cs" />
+    <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\RotationAxisLockGrabTransformer.cs" />
+    <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\ClimbTeleportDestinationIndicator.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\ObjectSpawner.cs" />
+    <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\ActionBasedControllerManager.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Scripts\MultiAnchorTeleportReticle.cs" />
+    <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\GazeInputManager.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\DynamicMoveProvider.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\ToggleComponentZone.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\XRPokeFollowAffordance.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\DemoSceneAssets\Scripts\IncrementUIText.cs" />
-    <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\RotationAxisLockGrabTransformer.cs" />
-    <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\ClimbTeleportDestinationIndicator.cs" />
-    <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\ActionBasedControllerManager.cs" />
-    <Compile Include="Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Scripts\GazeInputManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Samples\XR Interaction Toolkit\2.6.5\Starter Assets\Tunneling Vignette\TunnelingVignette.shader" />
@@ -952,10 +952,6 @@
     </Reference>
     <Reference Include="Unity.XR.CoreUtils">
       <HintPath>Library\ScriptAssemblies\Unity.XR.CoreUtils.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.XR.Interaction.Toolkit">
-      <HintPath>Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEditor.UI">
