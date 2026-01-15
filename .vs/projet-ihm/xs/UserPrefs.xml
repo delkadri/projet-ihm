@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{28A04D25-CAC9-6A2D-C4D4-9096AFDE54E5}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PdfJoystickPager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PdfAutoLoad.cs">
     <Files>
       <File FileName="Assets/Scripts/PdfAutoLoad.cs" Line="34" Column="1" />
       <File FileName="Assets/Scripts/PdfJoystickPager.cs" Line="49" Column="1" />
@@ -7,14 +7,18 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="projet-ihm" expanded="True" selected="True" />
+          <Node name="projet-ihm" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7c68b3de-317a-415d-a1d3-9dfc99961bb9" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f2d9694c-9e40-47c3-865d-4728b2fa9bf7" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
