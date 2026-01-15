@@ -9,7 +9,7 @@ public class BookmarkBoard : MonoBehaviour
     [Header("Setup")]
     public Transform gridContainer;       // The Grid Layout Group
     public GameObject uiWrapperPrefab;    // The invisible UI box
-    public float scaleCorrection = 250f;   // Scale multiplier for the board copy
+    public float scaleCorrection = 1f;   // Scale multiplier for the board copy
     public float zOffset = -50f;          // How far the object floats in front of board
 
     // TRACKING SYSTEM: Maps ID -> The Object on the Wall
@@ -19,6 +19,8 @@ public class BookmarkBoard : MonoBehaviour
     {
         if (Instance != null && Instance != this) Destroy(this);
         else Instance = this;
+        Debug.Log($" BookmarkBoard awaike: ");
+
     }
 
     public void ToggleBookmark(BookmarkableItem item)
@@ -29,6 +31,9 @@ public class BookmarkBoard : MonoBehaviour
         if (activeBookmarks.ContainsKey(item.uniqueID))
         {
             // --- REMOVE ---
+
+            Debug.Log($"BookmarkBoard ToggleBookmark() before remove: {item.uniqueID}");
+
             GameObject objectToRemove = activeBookmarks[item.uniqueID];
             Destroy(objectToRemove); // Delete the wrapper (and the cube inside it)
             activeBookmarks.Remove(item.uniqueID); // Forget it
@@ -39,18 +44,29 @@ public class BookmarkBoard : MonoBehaviour
             // --- ADD ---
             // 1. Create the Seat (Wrapper) in the Grid
             GameObject newWrapper = Instantiate(uiWrapperPrefab, gridContainer);
+            Debug.Log($" ADD 1.: ");
+
 
             // 2. Spawn the Copy inside the wrapper
             GameObject copy = Instantiate(item.boardPrefab, newWrapper.transform);
+            Debug.Log($" ADD 2.: ");
+
+
+
 
             // 3. Fix Position (3D inside 2D)
+            //copy.transform.localPosition = new Vector3(0, 0, zOffset);
+            //copy.transform.localRotation = Quaternion.Euler(0, 45, 0); // Nice angle
+            //copy.transform.localScale = Vector3.one * scaleCorrection;
             copy.transform.localPosition = new Vector3(0, 0, zOffset);
-            copy.transform.localRotation = Quaternion.Euler(0, 45, 0); // Nice angle
-            copy.transform.localScale = Vector3.one * scaleCorrection;
+            Debug.Log($" ADD 3.: ");
+
 
             // 4. Cleanup (Remove logic from the copy so it's just visual)
             Destroy(copy.GetComponent<BookmarkableItem>());
             Destroy(copy.GetComponent<UnityEngine.XR.Interaction.Toolkit.XRSimpleInteractable>());
+            Debug.Log($" ADD 4.: ");
+
 
             // 5. Remember it
             activeBookmarks.Add(item.uniqueID, newWrapper);

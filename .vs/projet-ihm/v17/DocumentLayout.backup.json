@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\APP5\\IHM\\Projet\\projet-ihm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\APP5\\IHM\\Projet\\projet-ihm\\Assets\\BookmarkBoard\\BookmarkableItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\BookmarkBoard\\BookmarkableItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\APP5\\IHM\\Projet\\projet-ihm\\Assets\\BookmarkableItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\BookmarkableItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\APP5\\IHM\\Projet\\projet-ihm\\Assets\\BookmarkBoard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\BookmarkBoard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\APP5\\IHM\\Projet\\projet-ihm\\Assets\\ClickToBookmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ClickToBookmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\APP5\\IHM\\Projet\\projet-ihm\\Assets\\BookmarkableItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\BookmarkableItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookmarkableItem.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\APP5\\IHM\\Projet\\projet-ihm\\Assets\\BookmarkBoard\\BookmarkableItem.cs",
-              "RelativeDocumentMoniker": "Assets\\BookmarkBoard\\BookmarkableItem.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\APP5\\IHM\\Projet\\projet-ihm\\Assets\\BookmarkBoard\\BookmarkableItem.cs",
-              "RelativeToolTip": "Assets\\BookmarkBoard\\BookmarkableItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T08:44:47.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FeatureHelpers.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APP5\\IHM\\Projet\\projet-ihm\\Library\\PackageCache\\com.unity.xr.openxr@1.14.3\\Editor\\FeatureSupport\\FeatureHelpers.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.openxr@1.14.3\\Editor\\FeatureSupport\\FeatureHelpers.cs",
@@ -59,11 +42,12 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.openxr@1.14.3\\Editor\\FeatureSupport\\FeatureHelpers.cs",
               "ViewState": "AgIAAGEAAAAAAAAAAAAUwGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T01:41:47.131Z"
+              "WhenOpened": "2026-01-14T01:41:47.131Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ClickToBookmark.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APP5\\IHM\\Projet\\projet-ihm\\Assets\\ClickToBookmark.cs",
               "RelativeDocumentMoniker": "Assets\\ClickToBookmark.cs",
@@ -71,22 +55,25 @@
               "RelativeToolTip": "Assets\\ClickToBookmark.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T01:36:07.439Z"
+              "WhenOpened": "2026-01-14T01:36:07.439Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BookmarkBoard.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APP5\\IHM\\Projet\\projet-ihm\\Assets\\BookmarkBoard.cs",
               "RelativeDocumentMoniker": "Assets\\BookmarkBoard.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\APP5\\IHM\\Projet\\projet-ihm\\Assets\\BookmarkBoard.cs",
               "RelativeToolTip": "Assets\\BookmarkBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T00:56:24.141Z"
+              "WhenOpened": "2026-01-14T00:56:24.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BookmarkableItem.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\APP5\\IHM\\Projet\\projet-ihm\\Assets\\BookmarkableItem.cs",
               "RelativeDocumentMoniker": "Assets\\BookmarkableItem.cs",

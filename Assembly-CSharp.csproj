@@ -59,10 +59,10 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\BookmarkableItem.cs" />
-    <Compile Include="Assets\clickCar.cs" />
-    <Compile Include="Assets\BookmarkBoard.cs" />
-    <Compile Include="Assets\ClickToBookmark.cs" />
+    <Compile Include="Assets\BookmarkBoard\ClickToBookmark.cs" />
+    <Compile Include="Assets\BookmarkBoard\BookmarkableItem.cs" />
+    <Compile Include="Assets\BookmarkBoard\BookmarkBoard.cs" />
+    <Compile Include="Assets\Scenes\clickCar.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1079,6 +1079,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj">
+      <Project>{27870EE1-86BA-820F-907E-B286FAEC6952}</Project>
+      <Name>Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj">
       <Project>{45E0EE53-6C89-1CA9-1921-687C6FAEBE34}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor</Name>
