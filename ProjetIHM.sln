@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.OpenXR.Features.PI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj", "{20FE885F-79E6-5BB0-B830-5595F6F39715}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator", "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj", "{1818D473-5236-A00B-8278-7E39ABAF47BC}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj", "{1464D3F3-58AE-830A-84A5-73D70931BBBA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.OpenXRPico", "Unity.XR.OpenXRPico.csproj", "{9451B1F6-1A17-054C-0D3E-D4865BC94ECF}"
@@ -49,6 +51,10 @@ Global
 		{20FE885F-79E6-5BB0-B830-5595F6F39715}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20FE885F-79E6-5BB0-B830-5595F6F39715}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20FE885F-79E6-5BB0-B830-5595F6F39715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1818D473-5236-A00B-8278-7E39ABAF47BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1818D473-5236-A00B-8278-7E39ABAF47BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1818D473-5236-A00B-8278-7E39ABAF47BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1818D473-5236-A00B-8278-7E39ABAF47BC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1464D3F3-58AE-830A-84A5-73D70931BBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1464D3F3-58AE-830A-84A5-73D70931BBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1464D3F3-58AE-830A-84A5-73D70931BBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -63,6 +63,8 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CustomInputAction.cs" />
+    <Compile Include="Assets\Scripts\NewVideoHandler.cs" />
     <Compile Include="Assets\Scripts\VideoPausePlay.cs" />
     <Compile Include="Assets\Scripts\spin.cs" />
     <Compile Include="Assets\Scripts\DocumentData.cs" />
@@ -1112,6 +1114,7 @@
     <ProjectReference Include="PICO.Platform.csproj" />
     <ProjectReference Include="Unity.XR.OpenXRPico.csproj" />
     <ProjectReference Include="PICO.Platform.Editor.csproj" />
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj" />
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj" />
     <ProjectReference Include="Unity.XR.OpenXR.Features.PICOSupport.Editor.csproj" />
     <ProjectReference Include="PICO.TobSupport.csproj" />
