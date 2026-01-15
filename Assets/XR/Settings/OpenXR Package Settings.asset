@@ -161,6 +161,7 @@ MonoBehaviour:
   - {fileID: -831553086690433034}
   - {fileID: -6331099664767137945}
   - {fileID: -7620089695410897316}
+  - {fileID: 3040531873214540714}
   - {fileID: -1413237214823567802}
   - {fileID: 1361373799440927379}
   - {fileID: 457161455144046210}
@@ -171,6 +172,7 @@ MonoBehaviour:
   - {fileID: -1045076991848788063}
   - {fileID: 7403448384378377012}
   - {fileID: -2188457365674975653}
+  - {fileID: -7502996883916766065}
   m_renderMode: 1
   m_autoColorSubmissionMode: 1
   m_colorSubmissionModes:
@@ -940,6 +942,7 @@ MonoBehaviour:
   - {fileID: 1443100680426748094}
   - {fileID: -3805347163980291291}
   - {fileID: 8886944453223480291}
+  - {fileID: -3721425723573791391}
   - {fileID: 117690542683314206}
   - {fileID: 782351119716269927}
   - {fileID: 1832243588151997494}
@@ -950,6 +953,7 @@ MonoBehaviour:
   - {fileID: -2825487557131395586}
   - {fileID: 171566313528040896}
   - {fileID: -5740674483173679780}
+  - {fileID: -7224298355379554770}
   m_renderMode: 1
   m_autoColorSubmissionMode: 1
   m_colorSubmissionModes:
