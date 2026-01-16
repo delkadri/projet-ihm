@@ -63,36 +63,36 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\PlatformManifestRewrite.cs">
-      <Link>Platform\Editor\PlatformManifestRewrite.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\PlatformConfig.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Platform\Editor\PlatformConfig.cs">
       <Link>Platform\Editor\PlatformConfig.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\Gs.cs">
-      <Link>Platform\Editor\Gs.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\Menu.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Platform\Editor\Menu.cs">
       <Link>Platform\Editor\Menu.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\PlatformPreprocessor.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Platform\Editor\PlatformPreprocessor.cs">
       <Link>Platform\Editor\PlatformPreprocessor.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\PicoGs.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Platform\Editor\PicoGs.cs">
       <Link>Platform\Editor\PicoGs.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\PcConfig.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Platform\Editor\PlatformManifestRewrite.cs">
+      <Link>Platform\Editor\PlatformManifestRewrite.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Platform\Editor\Gs.cs">
+      <Link>Platform\Editor\Gs.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Platform\Editor\PcConfig.cs">
       <Link>Platform\Editor\PcConfig.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\EditorConf.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Platform\Editor\EditorConf.cs">
       <Link>Platform\Editor\EditorConf.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\PXR_PlatformSettingEditor.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Platform\Editor\PXR_PlatformSettingEditor.cs">
       <Link>Platform\Editor\PXR_PlatformSettingEditor.cs</Link>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Platform\Editor\PICO.Platform.Editor.asmdef">
+    <None Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Platform\Editor\PICO.Platform.Editor.asmdef">
       <Link>Platform\Editor\PICO.Platform.Editor.asmdef</Link>
     </None>
   </ItemGroup>

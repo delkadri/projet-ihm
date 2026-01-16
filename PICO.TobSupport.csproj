@@ -63,156 +63,156 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\PICOCastOptionValueEnum.cs">
-      <Link>Enterprise\Scripts\Enums\PICOCastOptionValueEnum.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Plugin\PXR_EnterpriseTools.cs">
-      <Link>Enterprise\Scripts\Plugin\PXR_EnterpriseTools.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Model\WifiDisplayModel.cs">
-      <Link>Enterprise\Scripts\Model\WifiDisplayModel.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\StartVRSettingsEnum.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\StartVRSettingsEnum.cs">
       <Link>Enterprise\Scripts\Enums\StartVRSettingsEnum.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\USBConfigModeEnum.cs">
-      <Link>Enterprise\Scripts\Enums\USBConfigModeEnum.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Model\Intent.cs">
-      <Link>Enterprise\Scripts\Model\Intent.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Model\OffLineSystemUpdateConfig.cs">
-      <Link>Enterprise\Scripts\Model\OffLineSystemUpdateConfig.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\PICOCastOptionOrStatusEnum.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\PICOCastOptionOrStatusEnum.cs">
       <Link>Enterprise\Scripts\Enums\PICOCastOptionOrStatusEnum.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\PoseErrorTypeEnum.cs">
-      <Link>Enterprise\Scripts\Enums\PoseErrorTypeEnum.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Sample\CameraRendering\OpenXR\EnterpriseAPI_OpenXR.cs">
-      <Link>Enterprise\Sample\CameraRendering\OpenXR\EnterpriseAPI_OpenXR.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Sample\VirtualDisplay\PXR\VirtualDisplayDemo.cs">
-      <Link>Enterprise\Sample\VirtualDisplay\PXR\VirtualDisplayDemo.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\PackageControlEnum.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\PackageControlEnum.cs">
       <Link>Enterprise\Scripts\Enums\PackageControlEnum.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\SystemFunctionSwitchEnum.cs">
-      <Link>Enterprise\Scripts\Enums\SystemFunctionSwitchEnum.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\ScreenOffDelayTimeEnum.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\ScreenOffDelayTimeEnum.cs">
       <Link>Enterprise\Scripts\Enums\ScreenOffDelayTimeEnum.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\OnlineSystemUpdateErrorCode.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\OnlineSystemUpdateErrorCode.cs">
       <Link>Enterprise\Scripts\Enums\OnlineSystemUpdateErrorCode.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\PicoCastMediaFormat.cs">
-      <Link>Enterprise\Scripts\Enums\PicoCastMediaFormat.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Plugin\PXR_EnterprisePlugin.cs">
-      <Link>Enterprise\Scripts\Plugin\PXR_EnterprisePlugin.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Struct\RGBCameraStruct.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Struct\RGBCameraStruct.cs">
       <Link>Enterprise\Scripts\Struct\RGBCameraStruct.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Interfaces\BindCallback.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Interfaces\BindCallback.cs">
       <Link>Enterprise\Scripts\Interfaces\BindCallback.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\ScreencastAudioOutputEnum.cs">
-      <Link>Enterprise\Scripts\Enums\ScreencastAudioOutputEnum.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Interfaces\LongCallback.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Interfaces\LongCallback.cs">
       <Link>Enterprise\Scripts\Interfaces\LongCallback.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Sample\VirtualDisplay\PXR\VirtualDisplayEvent.cs">
-      <Link>Enterprise\Sample\VirtualDisplay\PXR\VirtualDisplayEvent.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Model\LargeSpaceQuickModeInfo.cs">
-      <Link>Enterprise\Scripts\Model\LargeSpaceQuickModeInfo.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\ControllerKeyEnum.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\ControllerKeyEnum.cs">
       <Link>Enterprise\Scripts\Enums\ControllerKeyEnum.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Interfaces\FileCopyCallback.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Interfaces\FileCopyCallback.cs">
       <Link>Enterprise\Scripts\Interfaces\FileCopyCallback.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Sample\VirtualDisplay\OpenXR\VirtualDisplayEvent_OpenXR.cs">
-      <Link>Enterprise\Sample\VirtualDisplay\OpenXR\VirtualDisplayEvent_OpenXR.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\SwitchEnum.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\SwitchEnum.cs">
       <Link>Enterprise\Scripts\Enums\SwitchEnum.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Sample\VirtualDisplay\OpenXR\VirtualDisplayDemo_OpenXR.cs">
-      <Link>Enterprise\Sample\VirtualDisplay\OpenXR\VirtualDisplayDemo_OpenXR.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\PXR_Enterprise.cs">
-      <Link>Enterprise\Scripts\PXR_Enterprise.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\OnLineSystemUpdateStatusCode.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\OnLineSystemUpdateStatusCode.cs">
       <Link>Enterprise\Scripts\Enums\OnLineSystemUpdateStatusCode.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Interfaces\StringCallback.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Interfaces\StringCallback.cs">
       <Link>Enterprise\Scripts\Interfaces\StringCallback.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Interfaces\IntCallback.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Interfaces\IntCallback.cs">
       <Link>Enterprise\Scripts\Interfaces\IntCallback.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\SystemInfoEnum.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\SystemInfoEnum.cs">
       <Link>Enterprise\Scripts\Enums\SystemInfoEnum.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Interfaces\BoolCallback.cs">
-      <Link>Enterprise\Scripts\Interfaces\BoolCallback.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Interfaces\MarkerInfoCallback.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Interfaces\MarkerInfoCallback.cs">
       <Link>Enterprise\Scripts\Interfaces\MarkerInfoCallback.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\HomeFunctionEnum.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\HomeFunctionEnum.cs">
       <Link>Enterprise\Scripts\Enums\HomeFunctionEnum.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\SleepDelayTimeEnum.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\SleepDelayTimeEnum.cs">
       <Link>Enterprise\Scripts\Enums\SleepDelayTimeEnum.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Model\MarkerInfo.cs">
-      <Link>Enterprise\Scripts\Model\MarkerInfo.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\CustomizeSettingsTabEnum.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\CustomizeSettingsTabEnum.cs">
       <Link>Enterprise\Scripts\Enums\CustomizeSettingsTabEnum.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Interfaces\SystemUpdateCallback.cs">
-      <Link>Enterprise\Scripts\Interfaces\SystemUpdateCallback.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\PICOCastUrlTypeEnum.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\PICOCastUrlTypeEnum.cs">
       <Link>Enterprise\Scripts\Enums\PICOCastUrlTypeEnum.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Model\WifiConfiguration.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Model\WifiConfiguration.cs">
       <Link>Enterprise\Scripts\Model\WifiConfiguration.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\PowerOnOffLogoEnum.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\PowerOnOffLogoEnum.cs">
       <Link>Enterprise\Scripts\Enums\PowerOnOffLogoEnum.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\HomeEventEnum.cs">
-      <Link>Enterprise\Scripts\Enums\HomeEventEnum.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\SystemKeyEnum.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\SystemKeyEnum.cs">
       <Link>Enterprise\Scripts\Enums\SystemKeyEnum.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\DeviceControlEnum.cs">
-      <Link>Enterprise\Scripts\Enums\DeviceControlEnum.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Enums\ControllerPairTimeEnum.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\ControllerPairTimeEnum.cs">
       <Link>Enterprise\Scripts\Enums\ControllerPairTimeEnum.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Model\Point3D.cs">
-      <Link>Enterprise\Scripts\Model\Point3D.cs</Link>
-    </Compile>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\Scripts\Interfaces\WifiDisplayModelCallback.cs">
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Interfaces\WifiDisplayModelCallback.cs">
       <Link>Enterprise\Scripts\Interfaces\WifiDisplayModelCallback.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\PICOCastOptionValueEnum.cs">
+      <Link>Enterprise\Scripts\Enums\PICOCastOptionValueEnum.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Plugin\PXR_EnterpriseTools.cs">
+      <Link>Enterprise\Scripts\Plugin\PXR_EnterpriseTools.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Model\WifiDisplayModel.cs">
+      <Link>Enterprise\Scripts\Model\WifiDisplayModel.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\USBConfigModeEnum.cs">
+      <Link>Enterprise\Scripts\Enums\USBConfigModeEnum.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Model\Intent.cs">
+      <Link>Enterprise\Scripts\Model\Intent.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Model\OffLineSystemUpdateConfig.cs">
+      <Link>Enterprise\Scripts\Model\OffLineSystemUpdateConfig.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\PoseErrorTypeEnum.cs">
+      <Link>Enterprise\Scripts\Enums\PoseErrorTypeEnum.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Sample\CameraRendering\OpenXR\EnterpriseAPI_OpenXR.cs">
+      <Link>Enterprise\Sample\CameraRendering\OpenXR\EnterpriseAPI_OpenXR.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Sample\VirtualDisplay\PXR\VirtualDisplayDemo.cs">
+      <Link>Enterprise\Sample\VirtualDisplay\PXR\VirtualDisplayDemo.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\SystemFunctionSwitchEnum.cs">
+      <Link>Enterprise\Scripts\Enums\SystemFunctionSwitchEnum.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\PicoCastMediaFormat.cs">
+      <Link>Enterprise\Scripts\Enums\PicoCastMediaFormat.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Plugin\PXR_EnterprisePlugin.cs">
+      <Link>Enterprise\Scripts\Plugin\PXR_EnterprisePlugin.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\ScreencastAudioOutputEnum.cs">
+      <Link>Enterprise\Scripts\Enums\ScreencastAudioOutputEnum.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Sample\VirtualDisplay\PXR\VirtualDisplayEvent.cs">
+      <Link>Enterprise\Sample\VirtualDisplay\PXR\VirtualDisplayEvent.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Model\LargeSpaceQuickModeInfo.cs">
+      <Link>Enterprise\Scripts\Model\LargeSpaceQuickModeInfo.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Sample\VirtualDisplay\OpenXR\VirtualDisplayEvent_OpenXR.cs">
+      <Link>Enterprise\Sample\VirtualDisplay\OpenXR\VirtualDisplayEvent_OpenXR.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Sample\VirtualDisplay\OpenXR\VirtualDisplayDemo_OpenXR.cs">
+      <Link>Enterprise\Sample\VirtualDisplay\OpenXR\VirtualDisplayDemo_OpenXR.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\PXR_Enterprise.cs">
+      <Link>Enterprise\Scripts\PXR_Enterprise.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Interfaces\BoolCallback.cs">
+      <Link>Enterprise\Scripts\Interfaces\BoolCallback.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Model\MarkerInfo.cs">
+      <Link>Enterprise\Scripts\Model\MarkerInfo.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Interfaces\SystemUpdateCallback.cs">
+      <Link>Enterprise\Scripts\Interfaces\SystemUpdateCallback.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\HomeEventEnum.cs">
+      <Link>Enterprise\Scripts\Enums\HomeEventEnum.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Enums\DeviceControlEnum.cs">
+      <Link>Enterprise\Scripts\Enums\DeviceControlEnum.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\Scripts\Model\Point3D.cs">
+      <Link>Enterprise\Scripts\Model\Point3D.cs</Link>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Enterprise\PICOXR.TobSupport.asmdef">
+    <None Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407(1)\Enterprise\PICOXR.TobSupport.asmdef">
       <Link>Enterprise\PICOXR.TobSupport.asmdef</Link>
     </None>
   </ItemGroup>
