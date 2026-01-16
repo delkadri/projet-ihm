@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/rb_scene.unity
     guid: 4b9adb9eb38d3bb43875e8c364d9db98
+  - enabled: 0
+    path: Assets/Scenes/EmptyDemo.unity
+    guid: b573a9dbbf6ded144a2445d37ced43d6
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d1d0c47078061914686b841d5e64982e, type: 2}

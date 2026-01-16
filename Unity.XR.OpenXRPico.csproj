@@ -63,11 +63,11 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Interactions\PICONeo3ControllerProfile.cs">
-      <Link>Runtime\Interactions\PICONeo3ControllerProfile.cs</Link>
-    </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Interactions\PICO4UltraControllerProfile.cs">
       <Link>Runtime\Interactions\PICO4UltraControllerProfile.cs</Link>
+    </Compile>
+    <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Interactions\PICONeo3ControllerProfile.cs">
+      <Link>Runtime\Interactions\PICONeo3ControllerProfile.cs</Link>
     </Compile>
     <Compile Include="C:\Users\rapha\Documents\POLYTECH\APP5\Projet IHM\Unity OpenXR IntegrationSDK-1.4.0-20250407\Runtime\Interactions\PICO4ControllerProfile.cs">
       <Link>Runtime\Interactions\PICO4ControllerProfile.cs</Link>
