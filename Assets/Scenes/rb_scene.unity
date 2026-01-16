@@ -345,48 +345,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46a6f4ac4af4343b0a2249bb75c1845f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pdfViewerUI: {fileID: 166686376}
+  pdfViewerUI: {fileID: 1976802121}
+  useRightHand: 1
+  requireHeld: 0
   grab: {fileID: 0}
-  nextAction:
-    m_UseReference: 0
-    m_Action:
-      m_Name: Next
-      m_Type: 0
-      m_ExpectedControlType: 
-      m_Id: 0eb6f997-5468-440e-8ebf-1cf1d152a41a
-      m_Processors: 
-      m_Interactions: 
-      m_SingletonActionBindings:
-      - m_Name: 
-        m_Id: e9585cc6-eb8f-4b5f-8c9a-8b7ef009945a
-        m_Path: <XRController>{LeftHand}/devicePosition/x
-        m_Interactions: 
-        m_Processors: 
-        m_Groups: 
-        m_Action: Next
-        m_Flags: 0
-      m_Flags: 0
-    m_Reference: {fileID: 0}
-  prevAction:
-    m_UseReference: 0
-    m_Action:
-      m_Name: Prev
-      m_Type: 0
-      m_ExpectedControlType: 
-      m_Id: e1fcde19-e2cc-4c7a-b964-479c6076c11c
-      m_Processors: 
-      m_Interactions: 
-      m_SingletonActionBindings:
-      - m_Name: 
-        m_Id: 4866ad4e-2b45-4606-886f-3f1a9252289f
-        m_Path: <XRController>{RightHand}/devicePosition/x
-        m_Interactions: 
-        m_Processors: 
-        m_Groups: 
-        m_Action: Prev
-        m_Flags: 0
-      m_Flags: 0
-    m_Reference: {fileID: 0}
 --- !u!114 &166686372
 MonoBehaviour:
   m_ObjectHideFlags: 0
