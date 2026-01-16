@@ -9,18 +9,16 @@ public class BookmarkBoard : MonoBehaviour
     [Header("Setup")]
     public Transform gridContainer;       // The Grid Layout Group
     public GameObject uiWrapperPrefab;    // The invisible UI box
-    public float scaleCorrection = 1f;   // Scale multiplier for the board copy
     public float zOffset = -50f;          // How far the object floats in front of board
 
-    // TRACKING SYSTEM: Maps ID -> The Object on the Wall
+    // TRACKING SYSTEM
     private Dictionary<string, GameObject> activeBookmarks = new Dictionary<string, GameObject>();
 
     private void Awake()
     {
         if (Instance != null && Instance != this) Destroy(this);
         else Instance = this;
-        Debug.Log($" BookmarkBoard awaike: ");
-
+        Debug.Log($" BookmarkBoard awake: ");
     }
 
     public void ToggleBookmark(BookmarkableItem item)
@@ -31,42 +29,34 @@ public class BookmarkBoard : MonoBehaviour
         if (activeBookmarks.ContainsKey(item.uniqueID))
         {
             // --- REMOVE ---
-
             Debug.Log($"BookmarkBoard ToggleBookmark() before remove: {item.uniqueID}");
 
             GameObject objectToRemove = activeBookmarks[item.uniqueID];
-            Destroy(objectToRemove); // Delete the wrapper (and the cube inside it)
-            activeBookmarks.Remove(item.uniqueID); // Forget it
+            Destroy(objectToRemove);
+            activeBookmarks.Remove(item.uniqueID);
             Debug.Log($"Removed: {item.uniqueID}");
         }
         else
         {
             // --- ADD ---
-            // 1. Create the Seat (Wrapper) in the Grid
+            // 1. Create the Seat (Wrapper)
             GameObject newWrapper = Instantiate(uiWrapperPrefab, gridContainer);
-            Debug.Log($" ADD 1.: ");
+            Debug.Log($" ADD 1.");
 
-
-            // 2. Spawn the Copy inside the wrapper
+            // 2. Spawn the Copy
             GameObject copy = Instantiate(item.boardPrefab, newWrapper.transform);
-            Debug.Log($" ADD 2.: ");
+            Debug.Log($" ADD 2.");
 
-
-
-
-            // 3. Fix Position (3D inside 2D)
-            //copy.transform.localPosition = new Vector3(0, 0, zOffset);
-            //copy.transform.localRotation = Quaternion.Euler(0, 45, 0); // Nice angle
-            //copy.transform.localScale = Vector3.one * scaleCorrection;
+            // 3. Fix Position & Scale
+            // *** THE FIX IS HERE (Added 'f') ***
+            copy.transform.localScale = new Vector3(7, 10, 0.2f);
             copy.transform.localPosition = new Vector3(0, 0, zOffset);
-            Debug.Log($" ADD 3.: ");
+            Debug.Log($" ADD 3.");
 
-
-            // 4. Cleanup (Remove logic from the copy so it's just visual)
+            // 4. Cleanup 
             Destroy(copy.GetComponent<BookmarkableItem>());
             Destroy(copy.GetComponent<UnityEngine.XR.Interaction.Toolkit.XRSimpleInteractable>());
-            Debug.Log($" ADD 4.: ");
-
+            Debug.Log($" ADD 4.");
 
             // 5. Remember it
             activeBookmarks.Add(item.uniqueID, newWrapper);
@@ -74,4 +64,3 @@ public class BookmarkBoard : MonoBehaviour
         }
     }
 }
-
